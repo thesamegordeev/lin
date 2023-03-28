@@ -1,6 +1,6 @@
 ## Part 1. Установка Оперативной Системы
 
-[part1](Screenshots/part1.PNG)
+![part1](Screenshots/part1.PNG)
  >**Вывод версии ОС** \
  >`cat /etc/issue`
  
