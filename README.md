@@ -2,7 +2,7 @@
 
 ![part1](Screenshots/part1.PNG)
  >**Вывод версии ОС** \
- `cat /etc/issue`
+ >`cat /etc/issue`
  
 ## Part 2 Создание ползователя
 
